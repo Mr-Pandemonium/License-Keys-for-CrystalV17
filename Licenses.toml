@@ -3,3 +3,6 @@
 
 [Yusuf]
 "973204" = { status = "active" }
+
+[OWNER]
+"999999" = { status = "owner" }
